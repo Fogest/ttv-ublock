@@ -1,1 +1,1 @@
-Mediapartners-Google
+LinkedInBot/1.0 (compatible; Mozilla/5.0; Apache-HttpClient +http://www.linkedin.com)
