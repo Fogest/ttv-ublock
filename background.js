@@ -5,7 +5,7 @@ chrome.storage.onChanged.addListener((changes) => {
 });
 
 chrome.storage.local.get(
-	{ userAgent: "Mediapartners-Google" },
+	{ userAgent: "LinkedInBot/1.0 (compatible; Mozilla/5.0; Apache-HttpClient +http://www.linkedin.com)" },
 	({ userAgent: storageUserAgent }) => {
 		userAgent = storageUserAgent;
 
